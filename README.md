@@ -7,6 +7,8 @@ Artificial Intelligence & Machine Learning
 
 Generative AI
 
+Agentic AI
+
 Big Data Engineering
 
 Cloud-based MLOps (Azure | AWS | GCP)
@@ -14,6 +16,7 @@ Cloud-based MLOps (Azure | AWS | GCP)
 Whether you are a beginner exploring ML basics or a professional building production-grade AI systems, this repo aims to provide clean, understandable, and impactful examples.
 
 🗂️ Repository Structure
+
 🧠 Basics/
 
 This folder contains foundational tutorials and practical examples covering core AI/ML algorithms:
