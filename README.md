@@ -39,12 +39,10 @@
 <p>This folder contains foundational tutorials and practical examples covering core AI/ML algorithms:</p>
 
 <ul>
-  <li>Regression</li>
-  <li>Classification</li>
-  <li>Clustering</li>
-  <li>Dimensionality Reduction</li>
-  <li>Feature Engineering</li>
-  <li>Model Evaluation</li>
+  <li>Linear Regression</li>
+  <li>Logistic Regression</li>
+  <li>Classification/Clustering</li>
+  <li>Deep Learning</li>
 </ul>
 
 <p>
